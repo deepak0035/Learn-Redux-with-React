@@ -24,9 +24,9 @@ const App = () =>
     <div class="flex justify-center items-center h-[100vh]">
       <div>
         <div className="flex items-center justify-center">
-          <h1 className="text-2xl font-bold text-center">Redux</h1>
+          <h1 className="text-2xl font-bold text-center">Learn Core Redux</h1>
         </div>
-        <div className="custom-number-input h-10 ">
+        <div className=" h-10 ">
           <div className="flex items-center justify-center">
             <label
               htmlFor="custom-input-number"
