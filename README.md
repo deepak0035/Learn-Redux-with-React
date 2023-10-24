@@ -2,6 +2,8 @@
 # Learning Redux with React
 
 This project serves as a practical guide for learning the core concepts of Redux with React. Redux is a powerful state management library commonly used in React applications to efficiently manage and access application state.
+## UI Overview
+![reduxExample Code](https://github.com/deepak0035/Redux-Doc-with-example-Code/assets/64684117/e14a2bf3-f0f2-400d-bc36-a7a5a1538b9a)
 
 ## Redux Basics
 
